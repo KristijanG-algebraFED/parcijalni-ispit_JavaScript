@@ -1,0 +1,37 @@
+body {
+  font-family: "Times New Roman", Times, serif, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+input {
+  padding: 10px;
+  width: 250px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px 30px;
+}
+
+#loader {
+  margin: 30px 0;
+}
+
+.hidden {
+  display: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
